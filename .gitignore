@@ -1,0 +1,8 @@
+node_modules
+
+.idea
+.DS_Store
+
+# выходные файлы работы скриптов из package.json
+source
+result
